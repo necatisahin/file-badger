@@ -55,7 +55,7 @@ To demonstrate how to set up a watched folder and configure the application to c
 Follow these steps to install and run File Badger on your system:
 
 1. **Download Required Files:**
-   - Navigate to the [example GitHub repository](https://github.com/example/fileBadger).
+   - Navigate to the [https://github.com/necatisahin/file-badger](https://github.com/necatisahin/file-badger).
    - Download the `fileBadger`and `openjfx-21_windows-x64_bin-sdk` folder.
 
 2. **Adjust Path in `startFileBadger.bat`:**
@@ -70,7 +70,7 @@ Follow these steps to install and run File Badger on your system:
    - Save the changes to the `startFileBadger.bat` file.
    - Double-click on `startFileBadger.bat` to launch File Badger.
 
-Now, File Badger should be up and running on your system. If you encounter any issues or have questions, please refer to the [GitHub repository](https://github.com/example/fileBadger) for support.
+Now, File Badger should be up and running on your system. If you encounter any issues or have questions, please refer to the [GitHub repository](https://github.com/necatisahin/file-badger) for support.
 
 
 
