@@ -81,4 +81,4 @@ Now, File Badger should be up and running on your system. If you encounter any i
 
 ## Support and Issues
 
-If you encounter any issues or have questions, please [open an issue](https://github.com/yourusername/FileBadger/issues) on the GitHub repository.
+If you encounter any issues or have questions, please [open an issue](https://github.com/necatisahin/file-badger) on the GitHub repository.
