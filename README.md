@@ -6,8 +6,6 @@ File Badger is a desktop application designed to help developers manage file cha
 ## Overview
 
 ![overview3](https://github.com/necatisahin/kafka-producer-consumer/assets/17224549/0f29b659-dc7e-443e-9237-7c15ee650bc6)
-![settingsoverview](https://github.com/necatisahin/kafka-producer-consumer/assets/17224549/cbf8f28d-51e1-4d61-821d-1be7839aefcb)
-![overview2](https://github.com/necatisahin/kafka-producer-consumer/assets/17224549/532b5cad-ce5e-488e-b19e-25bbf5afbd62)
 
 
 ## Usage
@@ -55,8 +53,8 @@ To demonstrate how to set up a watched folder and configure the application to c
 Follow these steps to install and run File Badger on your system:
 
 1. **Download Required Files:**
-   - Navigate to the [https://github.com/necatisahin/file-badger](https://github.com/necatisahin/file-badger) and download `fileBadger`.
-   - Download the `openjfx-21_windows-x64_bin-sdk` folder from [https://jdk.java.net/javafx21/](https://jdk.java.net/javafx21/) .
+   - Download the [https://github.com/necatisahin/file-badger](https://github.com/necatisahin/file-badger).
+   - Download the [https://jdk.java.net/javafx21/](https://jdk.java.net/javafx21/).
 
 2. **Adjust Path in `startFileBadger.bat`:**
    - Open the `startFileBadger.bat` file in a text editor.
